@@ -1,0 +1,8 @@
+{
+  "region": "AKK corridor, Nigeria",
+  "SSI": 0.585,
+  "SSI_per_band": {"B5": 0.493, "B11": 0.676},
+  "LSS_proxy": 0.828,
+  "III_proxy": 0.939,
+  "recommended_pathway": "C — Domain adversarial adaptation"
+}

@@ -1,0 +1,8 @@
+{
+  "region": "DMIC corridor, India",
+  "SSI": 0.245,
+  "SSI_per_band": {"B5": 0.196, "B11": 0.293},
+  "LSS_proxy": 0.499,
+  "III_proxy": 0.986,
+  "recommended_pathway": "B — Parameter-efficient fine-tuning (LoRA)"
+}

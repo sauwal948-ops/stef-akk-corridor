@@ -1,0 +1,8 @@
+{
+  "f1_indomain_source": 0.801,
+  "f1_zeroshot_target": 0.288,
+  "f1_adapted_target": 0.597,
+  "n_target_labels_used_for_adaptation": 50,
+  "classes_used": [10, 30, 40, 50],
+  "method": "RandomForest on raw Sentinel-2 bands vs ESA WorldCover labels — classical-ML proxy for the GeoFM pipeline in Section 7.2"
+}
