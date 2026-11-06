@@ -1,8 +1,0 @@
-{
-  "region": "AKK corridor, Nigeria",
-  "f1_indomain_source": 0.801,
-  "f1_zeroshot_target": 0.249,
-  "f1_adapted_target": 0.631,
-  "n_target_labels_used_for_adaptation": 50,
-  "classes_used": [10, 30, 40, 50]
-}
