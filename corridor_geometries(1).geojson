@@ -1,0 +1,554 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK (Nigeria)",
+    "kind": "corridor",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      6.6667,
+      7.5
+     ],
+     [
+      6.75,
+      8.55
+     ],
+     [
+      7.1806,
+      9.1817
+     ],
+     [
+      7.4383,
+      10.5222
+     ],
+     [
+      7.7,
+      11.0667
+     ],
+     [
+      8.592,
+      12.0022
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK seg1 Ajaokuta-Baro",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      6.6667,
+      7.5
+     ],
+     [
+      6.75,
+      8.55
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK seg2 Baro-Suleja",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      6.75,
+      8.55
+     ],
+     [
+      7.1806,
+      9.1817
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK seg3 Suleja-Kaduna",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      7.1806,
+      9.1817
+     ],
+     [
+      7.4383,
+      10.5222
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK seg4 Kaduna-Zaria",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      7.4383,
+      10.5222
+     ],
+     [
+      7.7,
+      11.0667
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "AKK seg5 Zaria-Kano",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      7.7,
+      11.0667
+     ],
+     [
+      8.592,
+      12.0022
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC (India)",
+    "kind": "corridor",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      77.5537,
+      28.5546
+     ],
+     [
+      76.6346,
+      27.553
+     ],
+     [
+      75.7873,
+      26.9124
+     ],
+     [
+      72.5714,
+      23.0225
+     ],
+     [
+      72.1833,
+      22.25
+     ],
+     [
+      72.8311,
+      21.1702
+     ],
+     [
+      72.9525,
+      18.949
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg1 Dadri-Alwar",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      77.5537,
+      28.5546
+     ],
+     [
+      76.6346,
+      27.553
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg2 Alwar-Jaipur",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      76.6346,
+      27.553
+     ],
+     [
+      75.7873,
+      26.9124
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg3 Jaipur-Ahmedabad",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      75.7873,
+      26.9124
+     ],
+     [
+      72.5714,
+      23.0225
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg4 Ahmedabad-Dholera",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.5714,
+      23.0225
+     ],
+     [
+      72.1833,
+      22.25
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg5 Dholera-Surat",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.1833,
+      22.25
+     ],
+     [
+      72.8311,
+      21.1702
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "DMIC seg6 Surat-JNPT-Mumbai",
+    "kind": "segment",
+    "note": "approximate trace from published maps; not an as-built centreline"
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      72.8311,
+      21.1702
+     ],
+     [
+      72.9525,
+      18.949
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "node",
+    "name": "Baro"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.75,
+     8.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "node",
+    "name": "Suleja"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.181,
+     9.182
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "node",
+    "name": "Kaduna"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.438,
+     10.522
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "node",
+    "name": "Zaria"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.7,
+     11.067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "node",
+    "name": "Kano"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.592,
+     12.002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "midpoint",
+    "name": "Baro-Suleja"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.96,
+     8.87
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "midpoint",
+    "name": "Kaduna-Zaria"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.57,
+     10.79
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "AKK (Nigeria)",
+    "point_type": "midpoint",
+    "name": "Zaria-Kano"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.15,
+     11.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Dadri"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.554,
+     28.555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Alwar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     76.635,
+     27.553
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Jaipur"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.787,
+     26.912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Ahmedabad/Gandhinagar"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.571,
+     23.023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Dholera SIR"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.183,
+     22.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "Surat"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.831,
+     21.17
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "node",
+    "name": "JNPT/Mumbai"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.953,
+     18.949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "corridor": "DMIC (India)",
+    "point_type": "midpoint",
+    "name": "Jaipur-Ahmedabad"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.9,
+     24.9
+    ]
+   }
+  }
+ ]
+}
