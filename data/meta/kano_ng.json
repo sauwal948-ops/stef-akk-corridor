@@ -1,0 +1,19 @@
+{
+  "name": "Kano NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 6.280479792675067,
+  "pop_mean": 56.91001110722087,
+  "pop_sd": 92.3281601171632,
+  "lst_mean_K": 310.2558092932637,
+  "lst_sd_K": 1.4630434225046702,
+  "T_C": 26.88935406744679,
+  "P_mm": 406.8074389747932,
+  "n_scenes_lt40cloud": 95,
+  "n_scenes_all": 145,
+  "mean_clear_obs_per_pixel": 51.45116526743818,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "AKK (Nigeria)",
+  "kind": "corridor",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 1.2540836684633763,
+  "pop_mean": 8.717382869058493,
+  "pop_sd": 24.41987626341608,
+  "lst_mean_K": 308.7324223895232,
+  "lst_sd_K": 2.4513834482350285,
+  "T_C": 27.116053291506205,
+  "P_mm": 756.2954810912169,
+  "n_scenes_lt40cloud": 451,
+  "n_scenes_all": 878,
+  "mean_clear_obs_per_pixel": 43.11464957777346,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

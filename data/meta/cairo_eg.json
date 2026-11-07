@@ -1,0 +1,19 @@
+{
+  "name": "Cairo EG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 69.98359707911912,
+  "pop_mean": 157.60111198253043,
+  "pop_sd": 205.07095120439138,
+  "lst_mean_K": 310.20778318624247,
+  "lst_sd_K": 2.7455302772648453,
+  "T_C": 22.625025715254196,
+  "P_mm": 23.29690471976892,
+  "n_scenes_lt40cloud": 65,
+  "n_scenes_all": 74,
+  "mean_clear_obs_per_pixel": 58.57020408996586,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

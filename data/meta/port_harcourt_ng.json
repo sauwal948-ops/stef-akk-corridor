@@ -1,0 +1,19 @@
+{
+  "name": "Port Harcourt NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 4.140120626302112,
+  "pop_mean": 23.172404602662127,
+  "pop_sd": 21.9924164073164,
+  "lst_mean_K": 307.3421567104212,
+  "lst_sd_K": 3.1869401448217705,
+  "T_C": 26.35256250548673,
+  "P_mm": 2676.1990690818375,
+  "n_scenes_lt40cloud": 19,
+  "n_scenes_all": 145,
+  "mean_clear_obs_per_pixel": 11.027329728068795,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

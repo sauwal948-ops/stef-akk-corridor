@@ -1,0 +1,19 @@
+{
+  "name": "AKK seg4 Kaduna-Zaria",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "AKK (Nigeria)",
+  "viirs_rad": 2.4403862171330886,
+  "pop_mean": 17.385415360236497,
+  "pop_sd": 28.382574865266644,
+  "lst_mean_K": 307.68061890368847,
+  "lst_sd_K": 1.5260307333090413,
+  "T_C": 25.477039608782945,
+  "P_mm": 731.8406478863365,
+  "n_scenes_lt40cloud": 79,
+  "n_scenes_all": 145,
+  "mean_clear_obs_per_pixel": 41.47374911301978,
+  "n_labelled": 799,
+  "n_shift": 2000,
+  "year": 2021
+}

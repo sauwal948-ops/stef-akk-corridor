@@ -1,0 +1,19 @@
+{
+  "name": "Nairobi KE",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 12.30339923223712,
+  "pop_mean": 55.08598488529544,
+  "pop_sd": 141.9134709764898,
+  "lst_mean_K": 310.0601190006947,
+  "lst_sd_K": 3.7782457058435384,
+  "T_C": 19.215319706735954,
+  "P_mm": 539.670796240599,
+  "n_scenes_lt40cloud": 30,
+  "n_scenes_all": 73,
+  "mean_clear_obs_per_pixel": 24.211823287540053,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

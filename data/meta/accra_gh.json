@@ -1,0 +1,19 @@
+{
+  "name": "Accra GH",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 27.029776526234734,
+  "pop_mean": 50.80352212889818,
+  "pop_sd": 52.71989504725627,
+  "lst_mean_K": 311.87365257009634,
+  "lst_sd_K": 4.963067707349037,
+  "T_C": 26.73026775227737,
+  "P_mm": 956.5286021011502,
+  "n_scenes_lt40cloud": 127,
+  "n_scenes_all": 296,
+  "mean_clear_obs_per_pixel": 45.11104385454912,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

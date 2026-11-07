@@ -1,0 +1,19 @@
+{
+  "name": "Johannesburg ZA",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 26.141745242899866,
+  "pop_mean": 25.31872240161132,
+  "pop_sd": 67.01013636300097,
+  "lst_mean_K": 300.95393936347926,
+  "lst_sd_K": 2.717700319976497,
+  "T_C": 16.05346680820105,
+  "P_mm": 845.5787254854462,
+  "n_scenes_lt40cloud": 243,
+  "n_scenes_all": 359,
+  "mean_clear_obs_per_pixel": 74.8170347598074,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

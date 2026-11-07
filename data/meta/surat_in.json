@@ -1,0 +1,19 @@
+{
+  "name": "Surat IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 10.881131268126904,
+  "pop_mean": 53.06601743297045,
+  "pop_sd": 163.82062266693123,
+  "lst_mean_K": 309.15808173520054,
+  "lst_sd_K": 2.4881303171989675,
+  "T_C": 27.100574820839597,
+  "P_mm": 1091.9768074116744,
+  "n_scenes_lt40cloud": 79,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 71.43462966463578,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

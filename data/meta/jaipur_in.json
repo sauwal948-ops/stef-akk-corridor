@@ -1,0 +1,19 @@
+{
+  "name": "Jaipur IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 14.373852720934801,
+  "pop_mean": 36.65626168081094,
+  "pop_sd": 45.415728934834995,
+  "lst_mean_K": 311.8922488217584,
+  "lst_sd_K": 2.5523741631358225,
+  "T_C": 24.61808354415109,
+  "P_mm": 517.0693746697607,
+  "n_scenes_lt40cloud": 49,
+  "n_scenes_all": 74,
+  "mean_clear_obs_per_pixel": 44.70975300641282,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

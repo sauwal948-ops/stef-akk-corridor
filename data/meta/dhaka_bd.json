@@ -1,0 +1,19 @@
+{
+  "name": "Dhaka BD",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 8.723337220103954,
+  "pop_mean": 199.23239941642515,
+  "pop_sd": 310.5631173152122,
+  "lst_mean_K": 304.8467547673313,
+  "lst_sd_K": 2.530147731890683,
+  "T_C": 25.501862286281835,
+  "P_mm": 1856.2829203151684,
+  "n_scenes_lt40cloud": 73,
+  "n_scenes_all": 147,
+  "mean_clear_obs_per_pixel": 67.64617410750395,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

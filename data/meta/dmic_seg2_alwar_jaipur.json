@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg2 Alwar-Jaipur",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 4.414652981224517,
+  "pop_mean": 14.891504670140014,
+  "pop_sd": 35.37780029202016,
+  "lst_mean_K": 309.21932828330347,
+  "lst_sd_K": 3.411836399636524,
+  "T_C": 24.34821045103496,
+  "P_mm": 599.1018678445242,
+  "n_scenes_lt40cloud": 199,
+  "n_scenes_all": 293,
+  "mean_clear_obs_per_pixel": 58.93505022381671,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

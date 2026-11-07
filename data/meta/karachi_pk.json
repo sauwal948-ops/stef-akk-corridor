@@ -1,0 +1,19 @@
+{
+  "name": "Karachi PK",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 32.324613255378615,
+  "pop_mean": 163.50780749043216,
+  "pop_sd": 154.4853087381012,
+  "lst_mean_K": 312.40458317745765,
+  "lst_sd_K": 3.2269086676969714,
+  "T_C": 26.270868374194265,
+  "P_mm": 147.02223179439073,
+  "n_scenes_lt40cloud": 342,
+  "n_scenes_all": 435,
+  "mean_clear_obs_per_pixel": 168.6885622948382,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

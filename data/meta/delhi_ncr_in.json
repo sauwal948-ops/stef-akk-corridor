@@ -1,0 +1,19 @@
+{
+  "name": "Delhi NCR IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 31.2905846219566,
+  "pop_mean": 107.41402985265658,
+  "pop_sd": 93.27969886554423,
+  "lst_mean_K": 305.30334160029577,
+  "lst_sd_K": 2.3181773795754386,
+  "T_C": 24.40414126234822,
+  "P_mm": 856.3283685862732,
+  "n_scenes_lt40cloud": 101,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 57.026760745604754,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

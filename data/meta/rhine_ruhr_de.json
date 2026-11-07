@@ -1,0 +1,19 @@
+{
+  "name": "Rhine-Ruhr DE",
+  "kind": "control",
+  "grp": "EU/US",
+  "parent": null,
+  "viirs_rad": 10.370244853389238,
+  "pop_mean": 9.946730907359216,
+  "pop_sd": 6.699480037899964,
+  "lst_mean_K": 290.7808393983347,
+  "lst_sd_K": 2.5441359622930744,
+  "T_C": 10.013807627725782,
+  "P_mm": 1141.4106828815181,
+  "n_scenes_lt40cloud": 119,
+  "n_scenes_all": 578,
+  "mean_clear_obs_per_pixel": 57.335212361068166,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

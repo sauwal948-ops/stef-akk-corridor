@@ -1,0 +1,19 @@
+{
+  "name": "Lagos NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 9.871837531435975,
+  "pop_mean": 101.31441598478759,
+  "pop_sd": 118.45334839426823,
+  "lst_mean_K": 306.6884522461997,
+  "lst_sd_K": 4.4762851113213795,
+  "T_C": 26.911764873730874,
+  "P_mm": 1691.3408313425039,
+  "n_scenes_lt40cloud": 19,
+  "n_scenes_all": 72,
+  "mean_clear_obs_per_pixel": 13.58244761527656,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

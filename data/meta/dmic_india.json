@@ -1,0 +1,19 @@
+{
+  "name": "DMIC (India)",
+  "kind": "corridor",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 3.22725541786617,
+  "pop_mean": 13.688490063699682,
+  "pop_sd": 58.68427779299627,
+  "lst_mean_K": 309.04457877506206,
+  "lst_sd_K": 4.267306534302857,
+  "T_C": 25.54892456103363,
+  "P_mm": 916.1582401010938,
+  "n_scenes_lt40cloud": 1435,
+  "n_scenes_all": 2251,
+  "mean_clear_obs_per_pixel": 70.24485690663309,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Addis Ababa ET",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 8.725980737966662,
+  "pop_mean": 43.87625819850777,
+  "pop_sd": 63.39420278421677,
+  "lst_mean_K": 305.7526797680354,
+  "lst_sd_K": 3.890517353063381,
+  "T_C": 14.67954989934691,
+  "P_mm": 2040.3235248466242,
+  "n_scenes_lt40cloud": 102,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 61.89430481386528,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

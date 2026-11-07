@@ -1,0 +1,19 @@
+{
+  "name": "Houston US",
+  "kind": "control",
+  "grp": "EU/US",
+  "parent": null,
+  "viirs_rad": 50.198530874511604,
+  "pop_mean": 13.209835077237289,
+  "pop_sd": 26.85026202394361,
+  "lst_mean_K": 308.7879902267907,
+  "lst_sd_K": 4.716306635325932,
+  "T_C": 20.657374953412898,
+  "P_mm": 1565.9735061856725,
+  "n_scenes_lt40cloud": 112,
+  "n_scenes_all": 291,
+  "mean_clear_obs_per_pixel": 62.459312948864515,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

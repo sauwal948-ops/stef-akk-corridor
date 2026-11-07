@@ -1,0 +1,19 @@
+{
+  "name": "Jakarta ID",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 22.19098229802332,
+  "pop_mean": 141.97050997852585,
+  "pop_sd": 32.875707178273046,
+  "lst_mean_K": 315.4883893261247,
+  "lst_sd_K": 3.1964087219491164,
+  "T_C": 26.05787327849879,
+  "P_mm": 2559.786968224008,
+  "n_scenes_lt40cloud": 96,
+  "n_scenes_all": 292,
+  "mean_clear_obs_per_pixel": 29.688829581795524,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

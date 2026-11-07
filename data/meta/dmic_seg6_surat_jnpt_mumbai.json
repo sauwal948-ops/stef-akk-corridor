@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg6 Surat-JNPT-Mumbai",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 4.579063136400499,
+  "pop_mean": 35.17249155919425,
+  "pop_sd": 109.54037198884852,
+  "lst_mean_K": 306.25380188666304,
+  "lst_sd_K": 3.545892430832701,
+  "T_C": 26.778902787014374,
+  "P_mm": 1691.7302832042908,
+  "n_scenes_lt40cloud": 300,
+  "n_scenes_all": 527,
+  "mean_clear_obs_per_pixel": 65.58717823836174,
+  "n_labelled": 799,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Kampala UG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 6.005991810380161,
+  "pop_mean": 48.13162315170038,
+  "pop_sd": 35.21125264508602,
+  "lst_mean_K": 308.5602170662866,
+  "lst_sd_K": 4.144922008603871,
+  "T_C": 21.478616000075874,
+  "P_mm": 1494.9113993137596,
+  "n_scenes_lt40cloud": 23,
+  "n_scenes_all": 70,
+  "mean_clear_obs_per_pixel": 16.982468308401963,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

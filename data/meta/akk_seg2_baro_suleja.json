@@ -1,0 +1,19 @@
+{
+  "name": "AKK seg2 Baro-Suleja",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "AKK (Nigeria)",
+  "viirs_rad": 0.5195745347399915,
+  "pop_mean": 5.636848781791087,
+  "pop_sd": 12.290383560106427,
+  "lst_mean_K": 310.15795141413173,
+  "lst_sd_K": 2.6893957523346037,
+  "T_C": 28.75669406872754,
+  "P_mm": 818.3715012136878,
+  "n_scenes_lt40cloud": 137,
+  "n_scenes_all": 292,
+  "mean_clear_obs_per_pixel": 33.30531754893329,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Ahmedabad IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 17.157468686922293,
+  "pop_mean": 83.97361400531922,
+  "pop_sd": 132.5573581428154,
+  "lst_mean_K": 311.7612916933025,
+  "lst_sd_K": 2.174224011982051,
+  "T_C": 26.708273706019384,
+  "P_mm": 747.1087694159411,
+  "n_scenes_lt40cloud": 94,
+  "n_scenes_all": 150,
+  "mean_clear_obs_per_pixel": 84.83802269541232,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

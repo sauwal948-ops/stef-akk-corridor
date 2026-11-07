@@ -1,0 +1,19 @@
+{
+  "name": "Po Valley IT",
+  "kind": "control",
+  "grp": "EU/US",
+  "parent": null,
+  "viirs_rad": 5.22536886753982,
+  "pop_mean": 1.886943170621554,
+  "pop_sd": 8.423162023369361,
+  "lst_mean_K": 299.3522973456431,
+  "lst_sd_K": 2.8171009989849196,
+  "T_C": 13.673004214153877,
+  "P_mm": 937.5455106945979,
+  "n_scenes_lt40cloud": 69,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 38.31635571985376,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

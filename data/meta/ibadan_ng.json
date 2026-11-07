@@ -1,0 +1,19 @@
+{
+  "name": "Ibadan NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 3.083337412084129,
+  "pop_mean": 40.07097575049695,
+  "pop_sd": 57.70549766018011,
+  "lst_mean_K": 309.10707807235326,
+  "lst_sd_K": 3.069942125386688,
+  "T_C": 26.70151619177119,
+  "P_mm": 1050.2781204903076,
+  "n_scenes_lt40cloud": 48,
+  "n_scenes_all": 148,
+  "mean_clear_obs_per_pixel": 26.04403681927251,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Kaduna NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 3.8399681686066085,
+  "pop_mean": 18.704289973289995,
+  "pop_sd": 29.430880016133212,
+  "lst_mean_K": 308.1650074842151,
+  "lst_sd_K": 1.8380721312617443,
+  "T_C": 25.54398973566822,
+  "P_mm": 827.2704907083904,
+  "n_scenes_lt40cloud": 42,
+  "n_scenes_all": 73,
+  "mean_clear_obs_per_pixel": 35.76137432253015,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

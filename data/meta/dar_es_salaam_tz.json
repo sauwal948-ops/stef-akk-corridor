@@ -1,0 +1,19 @@
+{
+  "name": "Dar es Salaam TZ",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 9.801346895729536,
+  "pop_mean": 96.33442519878035,
+  "pop_sd": 108.83553822626413,
+  "lst_mean_K": 306.9650339978874,
+  "lst_sd_K": 6.968894197965641,
+  "T_C": 25.98388666667074,
+  "P_mm": 960.2281873235319,
+  "n_scenes_lt40cloud": 43,
+  "n_scenes_all": 72,
+  "mean_clear_obs_per_pixel": 29.100299498802944,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

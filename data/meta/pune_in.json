@@ -1,0 +1,19 @@
+{
+  "name": "Pune IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 16.495627450737135,
+  "pop_mean": 79.1170724765035,
+  "pop_sd": 102.01523208893491,
+  "lst_mean_K": 310.85286976161683,
+  "lst_sd_K": 2.855076117647944,
+  "T_C": 24.35697960919049,
+  "P_mm": 1005.9093655068287,
+  "n_scenes_lt40cloud": 37,
+  "n_scenes_all": 77,
+  "mean_clear_obs_per_pixel": 34.92498375897634,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

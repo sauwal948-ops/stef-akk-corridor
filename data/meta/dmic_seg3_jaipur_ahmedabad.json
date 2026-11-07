@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg3 Jaipur-Ahmedabad",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 2.750130927891006,
+  "pop_mean": 10.105799252240136,
+  "pop_sd": 44.799437686263325,
+  "lst_mean_K": 311.40316636737396,
+  "lst_sd_K": 2.9597377534151894,
+  "T_C": 24.975790685289212,
+  "P_mm": 674.2791589629501,
+  "n_scenes_lt40cloud": 748,
+  "n_scenes_all": 1136,
+  "mean_clear_obs_per_pixel": 72.00780253604418,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

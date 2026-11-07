@@ -1,0 +1,19 @@
+{
+  "name": "Abuja NG",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 8.584592324611611,
+  "pop_mean": 20.078170439619317,
+  "pop_sd": 18.27807521999171,
+  "lst_mean_K": 310.4320078440911,
+  "lst_sd_K": 2.2354708923986646,
+  "T_C": 26.999101380966238,
+  "P_mm": 1093.7295019775697,
+  "n_scenes_lt40cloud": 72,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 44.29472379409636,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

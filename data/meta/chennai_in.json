@@ -1,0 +1,19 @@
+{
+  "name": "Chennai IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 17.69767377469475,
+  "pop_mean": 102.11480429883068,
+  "pop_sd": 89.56304265512199,
+  "lst_mean_K": 308.5535079995182,
+  "lst_sd_K": 2.728014811094859,
+  "T_C": 27.63200575873026,
+  "P_mm": 1506.167447649183,
+  "n_scenes_lt40cloud": 72,
+  "n_scenes_all": 144,
+  "mean_clear_obs_per_pixel": 39.3146062558897,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

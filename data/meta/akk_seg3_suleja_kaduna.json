@@ -1,0 +1,19 @@
+{
+  "name": "AKK seg3 Suleja-Kaduna",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "AKK (Nigeria)",
+  "viirs_rad": 1.4148758278943336,
+  "pop_mean": 8.491771067935915,
+  "pop_sd": 21.594479281430733,
+  "lst_mean_K": 308.3112399079702,
+  "lst_sd_K": 2.269734925437984,
+  "T_C": 26.510785738956997,
+  "P_mm": 1060.195777548538,
+  "n_scenes_lt40cloud": 149,
+  "n_scenes_all": 292,
+  "mean_clear_obs_per_pixel": 44.40552736152454,
+  "n_labelled": 800,
+  "n_shift": 1999,
+  "year": 2021
+}

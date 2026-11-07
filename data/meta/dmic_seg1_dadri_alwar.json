@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg1 Dadri-Alwar",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 5.144849449696986,
+  "pop_mean": 8.487352920799696,
+  "pop_sd": 11.310655973224863,
+  "lst_mean_K": 307.290066768067,
+  "lst_sd_K": 2.7999555074199556,
+  "T_C": 24.63411517188672,
+  "P_mm": 809.3666611657275,
+  "n_scenes_lt40cloud": 199,
+  "n_scenes_all": 292,
+  "mean_clear_obs_per_pixel": 54.98015415653396,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

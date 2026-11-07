@@ -1,0 +1,19 @@
+{
+  "name": "Sao Paulo BR",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 54.0202798212658,
+  "pop_mean": 91.43005357504533,
+  "pop_sd": 104.14166873129165,
+  "lst_mean_K": 304.357298311238,
+  "lst_sd_K": 2.8358053823807805,
+  "T_C": 19.001853862259907,
+  "P_mm": 1490.1187705195457,
+  "n_scenes_lt40cloud": 69,
+  "n_scenes_all": 146,
+  "mean_clear_obs_per_pixel": 38.0109361756089,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Mumbai IN",
+  "kind": "city",
+  "grp": "other",
+  "parent": null,
+  "viirs_rad": 19.947617740974376,
+  "pop_mean": 186.38581564176516,
+  "pop_sd": 170.73085454857866,
+  "lst_mean_K": 307.58679479518673,
+  "lst_sd_K": 4.076433275336146,
+  "T_C": 26.88918620435811,
+  "P_mm": 1718.2708855085505,
+  "n_scenes_lt40cloud": 139,
+  "n_scenes_all": 225,
+  "mean_clear_obs_per_pixel": 48.755810727793964,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg4 Ahmedabad-Dholera",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 4.226154605915942,
+  "pop_mean": 28.68279632644889,
+  "pop_sd": 88.05158056077772,
+  "lst_mean_K": 311.2951820562515,
+  "lst_sd_K": 3.269521485190796,
+  "T_C": 27.12409266858225,
+  "P_mm": 791.3632359783255,
+  "n_scenes_lt40cloud": 182,
+  "n_scenes_all": 296,
+  "mean_clear_obs_per_pixel": 93.28388008011338,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

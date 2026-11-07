@@ -1,0 +1,19 @@
+{
+  "name": "AKK seg5 Zaria-Kano",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "AKK (Nigeria)",
+  "viirs_rad": 2.195074166724429,
+  "pop_mean": 17.65163260556266,
+  "pop_sd": 38.75792061354569,
+  "lst_mean_K": 309.0888627552846,
+  "lst_sd_K": 1.8699679183544247,
+  "T_C": 25.999096186173006,
+  "P_mm": 479.4388806943001,
+  "n_scenes_lt40cloud": 175,
+  "n_scenes_all": 290,
+  "mean_clear_obs_per_pixel": 44.34035749199615,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}

@@ -1,0 +1,19 @@
+{
+  "name": "DMIC seg5 Dholera-Surat",
+  "kind": "segment",
+  "grp": "other",
+  "parent": "DMIC (India)",
+  "viirs_rad": 3.1702373036100546,
+  "pop_mean": 26.84249996604169,
+  "pop_sd": 133.81228027717165,
+  "lst_mean_K": 305.5830485916892,
+  "lst_sd_K": 5.6001215890163065,
+  "T_C": 27.306586767977024,
+  "P_mm": 949.6190030499898,
+  "n_scenes_lt40cloud": 165,
+  "n_scenes_all": 292,
+  "mean_clear_obs_per_pixel": 79.9777754183697,
+  "n_labelled": 800,
+  "n_shift": 2000,
+  "year": 2021
+}
